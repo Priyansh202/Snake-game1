@@ -1,1 +1,1 @@
-# Snake-game1
+A popular game maded using Python and Tkinter
